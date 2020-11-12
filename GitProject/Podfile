@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'GitProject' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GitProject
+
+pod 'AFNetworking'
+pod 'lottie-ios', ‘~> 2.5.2‘
+end
